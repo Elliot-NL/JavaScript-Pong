@@ -37,7 +37,7 @@ var canvas = document.getElementById("canvas"),
 		multipler = 1, // Varialbe to control the direction of sparks
 		startBtn = {}, // Start button object
 		restartBtn = {}, // Restart button object
-		over = 0, // flag varialbe, cahnged when the game is over
+		over = 0, // flag varialbe, changed when the game is over
 		init, // variable to initialize animation
 		paddleHit;
 
